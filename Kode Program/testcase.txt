@@ -1,0 +1,11 @@
+# addLokasi 
+- Pasar Cihapit | Jl. Cihapit, Bandung Wetan | Bandung
+- Pasar Gembong | Jl. Gembong Tebasan        | Surabaya
+
+# addSeller
+- Thriftopia | 089876543210
+- Dailyfinds | 089512345123
+
+# addBarang
+- Leather Jacket               | 75000 | Coklat | Bebas | Bebas
+- Jansport Superbreak Backpack | 80000 | Hijau  | Bebas | Bebas
