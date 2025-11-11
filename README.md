@@ -29,10 +29,13 @@ Beberapa file di dalamnya di antaranya: addBarang.php, addLokasi.php, addSeller.
 # Dokumentasi
 - Tampilan Awal Program
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4078ed9b-849c-49fd-b810-b5801bd236bf" />
+
 - CRUD Barang
 https://github.com/user-attachments/assets/b211ae92-7447-4c1a-b281-145a7183a58e
+
 - CRUD Seller
 https://github.com/user-attachments/assets/e8a089e8-cadf-46e8-ab88-2fb37b16c58c
+
 - CRUD Lokasi
 https://github.com/user-attachments/assets/1431e9ea-f21f-45f6-969d-5c127b4a5b0a
 
